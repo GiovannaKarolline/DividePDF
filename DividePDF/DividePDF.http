@@ -1,0 +1,6 @@
+@DividePDF_HostAddress = http://localhost:5002
+
+GET {{DividePDF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
